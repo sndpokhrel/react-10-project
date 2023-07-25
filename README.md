@@ -2,4 +2,4 @@
 
 Credit: Do Some Coding
 
-![Alt text](./react-contact-page/image.png)
+![Alt text](./react_contact_page/image.png)
