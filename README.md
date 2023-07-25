@@ -1,5 +1,8 @@
-Used React + Vite
+# Used React + Vite
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-React Brand Page
-Credit: Do Some Coding Alt text
+# React Brand Page
+Credit: Do Some Coding
+![Alt text](./react-brand-page/image.png)
+
