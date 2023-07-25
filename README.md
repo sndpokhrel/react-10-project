@@ -1,8 +1,13 @@
-# Used React + Vite
+# React projects
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 1.Brand Page
 
-# React Brand Page
-Credit: Do Some Coding
-![Alt text](./react-brand-page/image.png)
+Consist of basic react application. This project consist of working principle of React. Information of components and know how module are made and can be used.
 
+# 2.Contact Page
+
+This page contains contact form. This project is made up components and css for separate components, use case for useState hook, property props for different modules.
+
+# 3.Dice Game
+
+It is packed with more info than recent projects. Consist of detail use case for useState hooks. Usage of styled component for styling. In summary it consist of global use case for useState hook for multiple models.
