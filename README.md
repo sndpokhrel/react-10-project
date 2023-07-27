@@ -16,6 +16,6 @@ It is packed with more info than recent projects. Consist of detail use case for
 
 This project contains responsive website with styled component and use of useState hook in detail.
 
-# 5.Firebase COntact App
+# 5.Firebase Contact App
 
-This Dashboard consist of methods for firebase concept and tailwind css is also used.
+This Contact App consist of firebase concept on how to cooect to firebase and perform CRUD applications and tailwind css is also used.It also consist of customized hook and its applications.
