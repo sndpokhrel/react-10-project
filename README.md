@@ -15,3 +15,7 @@ It is packed with more info than recent projects. Consist of detail use case for
 # 4.Food App
 
 This project contains responsive website with styled component and use of useState hook in detail.
+
+# 5.Firebase COntact App
+
+This Dashboard consist of methods for firebase concept and tailwind css is also used.
